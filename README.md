@@ -24,7 +24,7 @@ You can then clone the FHIR Power repository and install the required dependenci
 
 ```
 git clone https://github.com/fhirfly/fhirpower.git
-cd kindling
+cd fhirpower
 pip install -r requirements.txt
 ```
 ## Usage
