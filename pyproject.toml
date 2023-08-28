@@ -1,5 +1,5 @@
 [project]
-name = "kindling"
+name = "fhirpower"
 version = "0.1.0"
 authors = [
   { name="fhirfly", email="fhirfly@fhirfly.io" },
@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/fhirfly/kindling"
-"Bug Tracker" = "https://github.com/fhirfly/kindling/issues"
+"Homepage" = "https://github.com/fhirpower/kindling"
+"Bug Tracker" = "https://github.com/fhirfly/fhirpower/issues"
