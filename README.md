@@ -1,7 +1,7 @@
 
-# Kindling - FHIR Sentence Labeling Tool
+# FHIR Power - FHIR Sentence Labeling Tool
 
-Kindling is an open-source Python tool designed to create labeled FHIR sentences from FHIR resources represented in JSON format. It flattens nested JSON structures, commonly used to represent FHIR resources, into a flat dictionary with labeled keys corresponding to the paths in the nested structure.
+FHIR Power is an open-source Python tool designed to create labeled FHIR sentences from FHIR resources represented in JSON format. It flattens nested JSON structures, commonly used to represent FHIR resources, into a flat dictionary with labeled keys corresponding to the paths in the nested structure.
 
 ## Table of Contents
 
@@ -18,19 +18,19 @@ FHIR (Fast Healthcare Interoperability Resources) is a standard for exchanging h
 
 ## Installation
 
-To use Kindling, you need to have Python installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
+To use FHIR Power, you need to have Python installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
 
-You can then clone the Kindling repository and install the required dependencies using the following commands:
+You can then clone the FHIR Power repository and install the required dependencies using the following commands:
 
 ```
-git clone https://github.com/fhirfly/kindling.git
+git clone https://github.com/fhirfly/fhirpower.git
 cd kindling
 pip install -r requirements.txt
 ```
 ## Usage
-To use Kindling, you can import the flatten_fhir function from the kindling.py module in your own scripts. Here's a basic example of how to use the tool:
+To use FHIR Power, you can import the flatten_fhir function from the fhirpower.py module in your own scripts. Here's a basic example of how to use the tool:
 ```
-from kindling import flatten_fhir
+from fhirpower import flatten_fhir
 
 # Example nested JSON FHIR resource
 nested_json = {
