@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: kindling
+Version: 0.1.0
+Summary: Create labeled FHIR sentences from FHIR resources in JSON.
+Author-email: fhirfly <fhirfly@fhirfly.io>
+Project-URL: Homepage, https://github.com/fhirfly/kindling
+Project-URL: Bug Tracker, https://github.com/fhirfly/kindling/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
 
 # Kindling - FHIR Sentence Labeling Tool
 

@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/kindling.py
+src/kindling.egg-info/PKG-INFO
+src/kindling.egg-info/SOURCES.txt
+src/kindling.egg-info/dependency_links.txt
+src/kindling.egg-info/top_level.txt
+test/test_kindling.py
