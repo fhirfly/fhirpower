@@ -23,7 +23,7 @@ To use Kindling, you need to have Python installed on your system. You can downl
 You can then clone the Kindling repository and install the required dependencies using the following commands:
 
 ```
-git clone https://github.com/your-username/kindling.git
+git clone https://github.com/fhirfly/kindling.git
 cd kindling
 pip install -r requirements.txt
 ```
