@@ -1,5 +1,5 @@
 import unittest
-from kindling import flatten_fhir
+from fhirpower import flatten_fhir
 
 class TestFlattenFHIR(unittest.TestCase):
 
