@@ -14,11 +14,7 @@ class TestFlattenFHIR(unittest.TestCase):
             ]
         }
         
-        expected_output = {
-            "resourceType": "Patient",
-            "name_0_given": "John",
-            "name_0_family": "Doe"
-        }
+        expected_output = '[resourceType]Patient[name][given]John[name][family]Doe'
         
         flattened_dict = flatten_fhir(nested_json)
         
