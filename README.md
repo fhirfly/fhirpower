@@ -22,10 +22,10 @@ To use FHIR Power, you need to have Python installed on your system. You can dow
 
 ### PIP
 You can use PIP to install with ```pip install fhirpower```
-
-You can then clone the FHIR Power repository and install the required dependencies using the following commands:
+https://pypi.org/project/fhirpower/
 
 ### FROM SOURCE
+You can lone the FHIR Power repository and install the required dependencies using the following commands:
 ```
 git clone https://github.com/fhirfly/fhirpower.git
 cd fhirpower
