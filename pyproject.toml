@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/fhirpower/kindling"
+"Homepage" = "https://github.com/fhirfly/fhirpower"
 "Bug Tracker" = "https://github.com/fhirfly/fhirpower/issues"
