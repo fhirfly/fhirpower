@@ -20,8 +20,12 @@ FHIR (Fast Healthcare Interoperability Resources) is a standard for exchanging h
 
 To use FHIR Power, you need to have Python installed on your system. You can download Python from the official website: [Python Downloads](https://www.python.org/downloads/)
 
+### PIP
+You can use PIP to install with ```pip install fhirpower```
+
 You can then clone the FHIR Power repository and install the required dependencies using the following commands:
 
+### FROM SOURCE
 ```
 git clone https://github.com/fhirfly/fhirpower.git
 cd fhirpower
