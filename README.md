@@ -14,7 +14,7 @@ FHIR Power is an open-source Python tool designed to create labeled FHIR sentenc
 
 ## Introduction
 
-FHIR (Fast Healthcare Interoperability Resources) is a standard for exchanging healthcare information electronically. FHIR resources are often represented in JSON format, which can contain nested structures. Kindling simplifies the process of converting these nested structures into flat labeled dictionaries, making it easier for downstream applications such as natural language processing and data analysis.
+FHIR (Fast Healthcare Interoperability Resources) is a standard for exchanging healthcare information electronically. FHIR resources are often represented in JSON format, which can contain nested structures. FHIR Power converts these nested structures into flat labeled dictionaries, making it easier for downstream applications such as natural language processing and data analysis.
 
 ## Installation
 
@@ -55,7 +55,7 @@ print(flat_dict)
 For more comprehensive examples and use cases, please refer to the examples directory in this repository. Each example demonstrates how to use Kindling for different types of FHIR resources.
 
 ### Contributing
-Contributions to Kindling are welcome! If you'd like to contribute, please follow these steps:
+Contributions to FHIR Power are welcome! If you'd like to contribute, please follow these steps:
 
 ### Fork the repository.
 Create a new branch for your feature or bug fix: git checkout -b feature-name.
