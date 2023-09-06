@@ -1,7 +1,7 @@
 
 # FHIR Power - FHIR Sentence Labeling Tool
 
-FHIR Power is an open-source Python tool designed to create labeled FHIR sentences from FHIR resources represented in JSON format. It flattens nested JSON structures, commonly used to represent FHIR resources, into a flat dictionary with labeled keys corresponding to the paths in the nested structure.
+FHIR Power is an open-source Python tool designed to create labeled FHIR sentences from FHIR resources represented in JSON format. It flattens nested JSON structures, commonly used to represent FHIR resources, into a flat dictionary with labeled keys corresponding to the paths in the nested structure.  This makes using FHIR for NLP training data a snap, espically with poular models such as BERT, GPT, T%, Llama, etc.  FHIRW or Retrieval Augmented Generation with exisitng LLMS to produce output based on a medical record.  
 
 ## Table of Contents
 
