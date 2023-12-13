@@ -29,7 +29,6 @@ You can lone the FHIR Power repository and install the required dependencies usi
 ```
 git clone https://github.com/fhirfly/fhirpower.git
 cd fhirpower
-pip install -r requirements.txt
 ```
 ## Usage
 To use FHIR Power, you can import the flatten_fhir function from the fhirpower.py module in your own scripts. Here's a basic example of how to use the tool:
